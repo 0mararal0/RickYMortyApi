@@ -1,0 +1,14 @@
+.containerFilterStatus {
+  height: 35px;
+}
+.buttonFilterStatus {
+  font-size: 1.2rem;
+  color: black;
+  border: none;
+  text-decoration: none;
+}
+.buttonFilterStatus:hover {
+  border-radius: 0 !important;
+  border-bottom: 2px solid #33a0ff !important;
+  color: #33a0ff !important;
+}
